@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTimer", "RandomTimer\RandomTimer.csproj", "{0F948B91-BED8-4408-9769-5772B5E7BDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F948B91-BED8-4408-9769-5772B5E7BDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F948B91-BED8-4408-9769-5772B5E7BDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F948B91-BED8-4408-9769-5772B5E7BDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F948B91-BED8-4408-9769-5772B5E7BDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B091EEA8-1468-414F-ADD2-6593EB39ABC0}
+	EndGlobalSection
+EndGlobal

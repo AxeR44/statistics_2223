@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AxeR\\Desktop\\statistics_2223_apps\\Week1VB\\Week1VB\\Week1VB.vbproj",
+      "projectUniqueName": "C:\\Users\\AxeR\\Desktop\\statistics_2223_apps\\Week1\\Week1VB\\Week1VB\\Week1VB.vbproj",
       "projectName": "Week1VB",
-      "projectPath": "C:\\Users\\AxeR\\Desktop\\statistics_2223_apps\\Week1VB\\Week1VB\\Week1VB.vbproj",
+      "projectPath": "C:\\Users\\AxeR\\Desktop\\statistics_2223_apps\\Week1\\Week1VB\\Week1VB\\Week1VB.vbproj",
       "packagesPath": "C:\\Users\\AxeR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AxeR\\Desktop\\statistics_2223_apps\\Week1VB\\Week1VB\\obj\\",
+      "outputPath": "C:\\Users\\AxeR\\Desktop\\statistics_2223_apps\\Week1\\Week1VB\\Week1VB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
