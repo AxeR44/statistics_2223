@@ -1,0 +1,17 @@
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\bin\Debug\net6.0-windows\CoinToss.exe
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\bin\Debug\net6.0-windows\CoinToss.deps.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\bin\Debug\net6.0-windows\CoinToss.runtimeconfig.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\bin\Debug\net6.0-windows\CoinToss.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\bin\Debug\net6.0-windows\CoinToss.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.csproj.AssemblyReference.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.Form1.resources
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.csproj.GenerateResource.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.AssemblyInfoInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.AssemblyInfo.cs
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\refint\CoinToss.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\CoinToss.genruntimeconfig.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week4\CoinToss\CoinToss\obj\Debug\net6.0-windows\ref\CoinToss.dll
