@@ -1,0 +1,17 @@
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\bin\Debug\net6.0-windows\HorizontalVerticalHistogram.exe
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\bin\Debug\net6.0-windows\HorizontalVerticalHistogram.deps.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\bin\Debug\net6.0-windows\HorizontalVerticalHistogram.runtimeconfig.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\bin\Debug\net6.0-windows\HorizontalVerticalHistogram.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\bin\Debug\net6.0-windows\HorizontalVerticalHistogram.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.csproj.AssemblyReference.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.Form1.resources
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.csproj.GenerateResource.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.AssemblyInfoInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.AssemblyInfo.cs
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.csproj.CoreCompileInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\refint\HorizontalVerticalHistogram.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\HorizontalVerticalHistogram.genruntimeconfig.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\HorizontalVerticalHistogram\HorizontalVerticalHistogram\obj\Debug\net6.0-windows\ref\HorizontalVerticalHistogram.dll

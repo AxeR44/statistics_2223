@@ -1,0 +1,17 @@
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\bin\Debug\net6.0-windows\ResizeRectangle.exe
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\bin\Debug\net6.0-windows\ResizeRectangle.deps.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\bin\Debug\net6.0-windows\ResizeRectangle.runtimeconfig.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\bin\Debug\net6.0-windows\ResizeRectangle.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\bin\Debug\net6.0-windows\ResizeRectangle.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.csproj.AssemblyReference.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.Form1.resources
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.csproj.GenerateResource.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.AssemblyInfoInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.AssemblyInfo.cs
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.csproj.CoreCompileInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\refint\ResizeRectangle.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ResizeRectangle.genruntimeconfig.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week5\ResizeRectangle\ResizeRectangle\obj\Debug\net6.0-windows\ref\ResizeRectangle.dll
