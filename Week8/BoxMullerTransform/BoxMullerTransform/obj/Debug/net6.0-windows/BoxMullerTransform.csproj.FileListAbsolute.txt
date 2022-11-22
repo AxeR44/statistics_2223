@@ -1,0 +1,17 @@
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\bin\Debug\net6.0-windows\BoxMullerTransform.exe
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\bin\Debug\net6.0-windows\BoxMullerTransform.deps.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\bin\Debug\net6.0-windows\BoxMullerTransform.runtimeconfig.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\bin\Debug\net6.0-windows\BoxMullerTransform.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\bin\Debug\net6.0-windows\BoxMullerTransform.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.csproj.AssemblyReference.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.Form1.resources
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.csproj.GenerateResource.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.AssemblyInfoInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.AssemblyInfo.cs
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.csproj.CoreCompileInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\refint\BoxMullerTransform.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\BoxMullerTransform.genruntimeconfig.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\BoxMullerTransform\BoxMullerTransform\obj\Debug\net6.0-windows\ref\BoxMullerTransform.dll

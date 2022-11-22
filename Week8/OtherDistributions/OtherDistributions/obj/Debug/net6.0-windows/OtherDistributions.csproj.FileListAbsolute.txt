@@ -1,0 +1,17 @@
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.csproj.AssemblyReference.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.Form1.resources
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.csproj.GenerateResource.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.AssemblyInfoInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.AssemblyInfo.cs
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.csproj.CoreCompileInputs.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\bin\Debug\net6.0-windows\OtherDistributions.exe
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\bin\Debug\net6.0-windows\OtherDistributions.deps.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\bin\Debug\net6.0-windows\OtherDistributions.runtimeconfig.json
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\bin\Debug\net6.0-windows\OtherDistributions.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\bin\Debug\net6.0-windows\OtherDistributions.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\refint\OtherDistributions.dll
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.pdb
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\OtherDistributions.genruntimeconfig.cache
+C:\Users\AxeR\Desktop\statistics_2223_apps\Week8\OtherDistributions\OtherDistributions\obj\Debug\net6.0-windows\ref\OtherDistributions.dll
