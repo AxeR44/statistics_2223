@@ -7,7 +7,7 @@ namespace OtherDistributions
         private int nSamples;
         private Bitmap b;
         private Graphics g;
-        private Rectangle NormalDistribution, CauchyDistribution, ChiSquaredDistribution, TStudentDistribution, FFischerDistribution;
+        private Rectangle NormalDistribution, CauchyDistribution, ChiSquaredDistribution, TStudentDistribution, FFisherDistribution;
         RandomPolar PolarRNG;
         private int nIntervals = 30;
         private const int W = 400, H = 300;
@@ -25,7 +25,7 @@ namespace OtherDistributions
             this.CauchyDistribution = new Rectangle(this.NormalDistribution.Right + 10, this.NormalDistribution.Top, W, H);
             this.ChiSquaredDistribution = new Rectangle(this.CauchyDistribution.Right + 10, this.CauchyDistribution.Top, W, H);
             this.TStudentDistribution = new Rectangle(this.NormalDistribution.Right - 200, this.NormalDistribution.Bottom + 50, W, H);
-            this.FFischerDistribution = new Rectangle(this.TStudentDistribution.Right + 10, this.TStudentDistribution.Top, W, H);
+            this.FFisherDistribution = new Rectangle(this.TStudentDistribution.Right + 10, this.TStudentDistribution.Top, W, H);
             this.PolarRNG = new RandomPolar();
             resetGraphics();
             pictureBox1.Image = b;
@@ -39,7 +39,7 @@ namespace OtherDistributions
             g.DrawRectangle(Pens.Black, this.CauchyDistribution);
             g.DrawRectangle(Pens.Black, this.ChiSquaredDistribution);
             g.DrawRectangle(Pens.Black, this.TStudentDistribution);
-            g.DrawRectangle(Pens.Black, this.FFischerDistribution);
+            g.DrawRectangle(Pens.Black, this.FFisherDistribution);
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
@@ -52,7 +52,7 @@ namespace OtherDistributions
             resetGraphics();
             List<double> Cauchy = new List<double>(),
                 TStudent = new List<double>(), 
-                FFischer = new List<double>(), 
+                FFisher = new List<double>(), 
                 Normal = new List<double>(),
                 ChiSquared = new List<double>();
             for (int i = 0; i < nSamples; ++i)
@@ -61,7 +61,7 @@ namespace OtherDistributions
                 Normal.Add(generatedPoint.Item1);
                 ChiSquared.Add(Math.Pow(generatedPoint.Item1, 2));
                 Cauchy.Add(generatedPoint.Item1 / generatedPoint.Item2);
-                FFischer.Add(Math.Pow(generatedPoint.Item1, 2) / Math.Pow(generatedPoint.Item2, 2));
+                FFisher.Add(Math.Pow(generatedPoint.Item1, 2) / Math.Pow(generatedPoint.Item2, 2));
                 TStudent.Add(generatedPoint.Item1 / Math.Pow(generatedPoint.Item2, 2));
             }
 
@@ -69,12 +69,12 @@ namespace OtherDistributions
             Cauchy = Cauchy.Where((value) => (value >= CAverage - 50 && value <= CAverage + 50)).ToList();
 
             TStudent = TStudent.Where((value) => (value >= - 50 && value <= 50)).ToList();
-            FFischer = FFischer.Where((value) => (value <= 50)).ToList();
+            FFisher = FFisher.Where((value) => (value <= 50)).ToList();
 
             plotDistribution(Normal, this.NormalDistribution);
             plotDistribution(ChiSquared, this.ChiSquaredDistribution);
             plotDistribution(Cauchy, this.CauchyDistribution);
-            plotDistribution(FFischer, this.FFischerDistribution);
+            plotDistribution(FFisher, this.FFisherDistribution);
             plotDistribution(TStudent, this.TStudentDistribution);
             pictureBox1.Image = b;
         }
